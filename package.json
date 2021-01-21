@@ -9,7 +9,7 @@
     "@types/styled-components": "^5.0.1",
     "aria2ts": "^1.1.9",
     "electron": "8.0.1",
-    "immer": "^6.0.2",
+    "immer": "^8.0.1",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-hot-loader": "^4.12.20",
