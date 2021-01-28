@@ -8,7 +8,7 @@
     "@types/shelljs": "^0.8.6",
     "@types/styled-components": "^5.0.1",
     "aria2ts": "^1.1.9",
-    "electron": "8.0.1",
+    "electron": "9.4.0",
     "immer": "^6.0.2",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
